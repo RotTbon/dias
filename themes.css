@@ -1,0 +1,29 @@
+/* Tema: Klasik */
+.theme-classic {
+  background-color: #1e1e2f;
+  color: #ffffff;
+}
+
+/* Tema: Gündüz */
+.theme-day {
+  background-color: #ffffff;
+  color: #1e1e2f;
+}
+
+/* Tema: Gece */
+.theme-night {
+  background-color: #0a0a1a;
+  color: #f0f0f0;
+}
+
+/* Tema: Mor */
+.theme-purple {
+  background-color: #2e003e;
+  color: #ffccff;
+}
+
+/* Tema: Yeşil */
+.theme-green {
+  background-color: #002f2f;
+  color: #a0ffcc;
+}
